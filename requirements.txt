@@ -1,0 +1,1 @@
+pip install streamlit datasets transformers sentence-transformers faiss-cpu scikit-fuzzy numpy
